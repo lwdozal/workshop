@@ -1,0 +1,2 @@
+this line was added to 'practice.txt' using '>>' in bash
+new line
