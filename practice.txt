@@ -1,2 +1,4 @@
-this line was added to 'practice.txt' using '>>' in bash
+alo
+hi 
+hola
 new line
